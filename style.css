@@ -1,3 +1,8 @@
+:root {
+  font-family: "Alice", serif;
+  color: #573a37;
+}
+
 body {
   background-image: url(assets/bg.jpg);
   /* Com cover, a imagem vai cobrir apenas a região visível pra mim da pagina, se eu expandir ela expande junto*/
@@ -15,4 +20,20 @@ body {
 
 img {
   border-radius: 16px;
+}
+
+h1 {
+  line-height: 140%;
+  font-size: 40px;
+  color: #291b1a;
+}
+
+h2 {
+  line-height: 150%;
+  font-size: 24px;
+  color: #291b1a;
+}
+p {
+  line-height: 150%;
+  font-size: 16px;
 }
