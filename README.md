@@ -1,6 +1,14 @@
-# 🍳 Página de Receita - Rocketseat
+# Página de Receita - Rocketseat
 
-![Preview do Projeto](https://raw.githubusercontent.com/willianpm/Projeto-Rocketseat-Pagina-de-Receita/assets/preview.png) ## 💻 Sobre o projeto
+<details>
+  <summary>📸 Clique para visualizar o Preview</summary>
+  <p align="center">
+    <br>
+    <img src="./assets/preview.png" alt="Preview do Projeto" width="800">
+  </p>
+</details>
+
+## Sobre o projeto
 
 Este projeto é uma página web simples de uma receita, desenvolvida como um desafio prático da **Rocketseat**. O objetivo principal foi consolidar conhecimentos fundamentais de estruturação e estilização web, focando-se em semântica HTML e boas práticas de CSS.
 
