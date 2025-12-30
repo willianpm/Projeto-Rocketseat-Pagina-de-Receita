@@ -1,5 +1,6 @@
 # Página de Receita - Rocketseat
 
+<<<<<<< HEAD
 <details>
   <summary>📸 Clique para visualizar o Preview</summary>
   <p align="center">
@@ -9,6 +10,9 @@
 </details>
 
 ## Sobre o projeto
+=======
+![Preview do Projeto](./assets/preview.png) ## 💻 Sobre o projeto
+>>>>>>> a22ec64871dd2e4d51c03403d8dd79dd499bfbd5
 
 Este projeto é uma página web simples de uma receita, desenvolvida como um desafio prático da **Rocketseat**. O objetivo principal foi consolidar conhecimentos fundamentais de estruturação e estilização web, focando-se em semântica HTML e boas práticas de CSS.
 
